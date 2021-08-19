@@ -2,12 +2,19 @@ JAUNDICE
 
 
 
+Jaundice, also known as icterus, is a yellowish or greenish pigmentation of the skin and whites of the eyes due to high bilirubin levels.Jaundice in grown-ups is ordinarily a sign showing the presence of hidden infections including unusual heme digestion, liver brokenness, or biliary-parcel check. The pervasiveness of jaundice in grown-ups is uncommon, while jaundice in infants is normal, with an expected 80% influenced during their first seven day stretch of life. The most ordinarily related side effects of jaundice are irritation, pale excrement, and dim pee. 
+
+Reasons for jaundice shift from nonserious to conceivably lethal. High unconjugated bilirubin might be because of abundance red platelet breakdown, enormous injuries, hereditary conditions like Gilbert's disorder, not eating for a drawn out timeframe, infant jaundice, or thyroid issues. High formed bilirubin might be because of liver sicknesses like cirrhosis or hepatitis, contaminations, prescriptions, or blockage of the bile conduit,. because of elements including gallstones, malignancy, or pancreatitis. Different conditions can likewise cause yellowish skin, however are not jaundice, including carotenemia, which can create from eating a lot of food varieties containing carotene — or drugs like rifampin. 
 
 
 
 
 
 
+
+
+
+>>WORKFLOW
 
 
 
@@ -26,9 +33,17 @@ JAUNDICE
 
 
 
-Jaundice, also known as icterus, is a yellowish or greenish pigmentation of the skin and whites of the eyes due to high bilirubin levels.Jaundice in grown-ups is ordinarily a sign showing the presence of hidden infections including unusual heme digestion, liver brokenness, or biliary-parcel check. The pervasiveness of jaundice in grown-ups is uncommon, while jaundice in infants is normal, with an expected 80% influenced during their first seven day stretch of life. The most ordinarily related side effects of jaundice are irritation, pale excrement, and dim pee. 
 
-Reasons for jaundice shift from nonserious to conceivably lethal. High unconjugated bilirubin might be because of abundance red platelet breakdown, enormous injuries, hereditary conditions like Gilbert's disorder, not eating for a drawn out timeframe, infant jaundice, or thyroid issues. High formed bilirubin might be because of liver sicknesses like cirrhosis or hepatitis, contaminations, prescriptions, or blockage of the bile conduit,. because of elements including gallstones, malignancy, or pancreatitis. Different conditions can likewise cause yellowish skin, however are not jaundice, including carotenemia, which can create from eating a lot of food varieties containing carotene — or drugs like rifampin. 
+
+
+
+
+
+
+
+
+
+
 
 
 SIGNS AND SYMPTOMS                                                  
