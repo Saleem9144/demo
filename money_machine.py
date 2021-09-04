@@ -3,7 +3,7 @@ class MoneyMachine:
     CURRENCY = "$"
 
     COIN_VALUES = {
-        "Two Dollar": 2,
+        "Two Dollars": 2,
         "One Dollar": 1,
         "Fifty Cent": 0.50
     }
