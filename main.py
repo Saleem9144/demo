@@ -1,4 +1,3 @@
-"""This is an OOP coffee maker application."""
 # Imports
 import os
 from menu import Menu
@@ -33,7 +32,7 @@ while not turn_off:
         available = menu.find_drink(user_drink)
         if available:
             if make_coffee.is_resource_sufficient(available):
-                print(f'The price for {available.name} price is €{available.cost:.2f}')
+                print(f'The price for {available.name} price is ${available.cost:.2f}')
                 if payment.make_payment(available.cost):
                     make_coffee.make_coffee(available)
     elif default == 'no':
