@@ -1,13 +1,10 @@
-"""Code not written by me."""
-
-
 class MoneyMachine:
 
-    CURRENCY = "€"
+    CURRENCY = "$"
 
     COIN_VALUES = {
-        "Two Euros": 2,
-        "One Euro": 1,
+        "Two Dollar": 2,
+        "One Dollar": 1,
         "Fifty Cent": 0.50
     }
 
